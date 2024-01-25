@@ -12,19 +12,19 @@
     "success_url": "https://t.me/DroneBots",
     "env": {
         "API_HASH": {
-            "description": "Your API HASH from my.telegram.org",
+            "description": "9758292b691b82c5915900c506fcbe83",
             "value": ""
         },
         "API_ID": {
-            "description": "Your API ID from my.telegram.org",
+            "description": "26367674",
             "value": ""
         },
         "BOT_TOKEN": {
-            "description": "Bot token, get it from @BotFather.",
+            "description": "6614716532:AAFbqwn9EwpBDOnfMhJvFvTvyhS5qmI2Fkc",
             "value": ""
         },
         "SESSION": {
-            "description": "Pyrogram string session.",
+            "description": "BQEksaEAvcr6YNk7baP-LB5FMl_kfEWkwYkKANcCVmDRu5RqqObtfZpkKNxt5dWes4qusOjRujSjeFHUshNIOAakDuJ0t7DXc3Ux7kgm8ga9JuWUWZP0L2FhFf6llHhG2amwZI0UfGeL2GzjucQkTB6HyRNdJz_f2Y_CdsDWbzbDH-pA2Q6ycSM4oP2LFUI8s0hlMNh8FX14G6af-zNrVS3UPtg5Qw0pT8VsebmTK2thB27r_F6sDHfijq8KZEp7vOtGZFtmzF2DtNyoC8hzCDfQw_4-RMc9GpzoERR_24o4xYxXBI9QpNZMIlCwHO9SWitpmh81PkZ1ixaK021ThAi3M1YuGwAAAAFTmB0RAA",
             "value": ""
         },
         "AUTH": {
